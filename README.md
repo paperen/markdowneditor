@@ -5,7 +5,7 @@
 
 @url [下载markdowneditor.rar](http://iamlze.cn/demo/markdowneditor/markdowneditor.rar "下载")
 
-@link [http://iamlze.cn/markdowneditor](http://iamlze.cn/markdowneditor "markdowneditor")
+@link [http://iamlze.cn/post/markdowneditor](http://iamlze.cn/post/markdowneditor "markdowneditor")
 
 ## 关于markdown ##
 >Markdown 的目标是实现「易读易写」。
