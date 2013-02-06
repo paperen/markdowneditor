@@ -32,12 +32,12 @@
 你可以通过MarkdownEditor::render时覆盖默认的配置参数
 
 	<?php
-	 = array(
+	$config = array(
 		'upload_handler' => './upload.php',
 		'upload_path' => './upload/',
 		'value' => ,
 	);
-	MarkdownEditor::render(  );
+	MarkdownEditor::render( $config );
 	?>
 
 ## API ##
