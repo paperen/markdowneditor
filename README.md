@@ -5,6 +5,8 @@
 
 @url [下载markdowneditor.rar](http://iamlze.cn/demo/markdowneditor/markdowneditor.rar "下载")
 
+@link [http://iamlze.cn/markdowneditor](http://iamlze.cn/markdowneditor "markdowneditor")
+
 ## 关于markdown ##
 >Markdown 的目标是实现「易读易写」。
 >可读性，无论如何，都是最重要的。一份使用 Markdown 格式撰写的文件应该可以直接以纯文本发布，并且看起来不会像是由许多标签或是格式指令所构成。Markdown 语法受到一些既有 text-to-HTML 格式的影响，包括 Setext、atx、Textile、reStructuredText、Grutatext 和 EtText，而最大灵感来源其实是纯文本电子邮件的格式。
