@@ -1,5 +1,5 @@
 # markdowneditor #
-一个简单的markdown编辑器
+一个简单的markdown编辑器(基于PHP)
 
 @author [paperen](http://iamlze.cn "paperen")
 
