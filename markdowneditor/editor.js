@@ -77,6 +77,7 @@ function MDE_parse() {
     if ( MDE_text.length > 0 ) {
         $.ajax({
             type: "POST",
+			async: false,
             url: editor_relpath + "editor.php?do=parse",
             data: 'content=' + encodeURIComponent( MDE_text ),
             dataType: 'json',
